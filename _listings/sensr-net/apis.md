@@ -9,8 +9,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/924-sensr-
 x-kinRank: "7"
 x-alexaRank: "766070"
 tags: Sensr.net
-created: "2018-05-23"
-modified: "2018-05-23"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/sensr-net/master/_listings/sensr-net/apis.md
 specificationVersion: "0.14"
 apis:
@@ -38,7 +38,7 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-organizations/sensr-net/master/_listings/sensr-net/inventorydevicesdeviceid--openapi.md
 - name: Devices API View device by agent key
   x-api-slug: devices-api
-  description: ""
+  description: View device by agent key.
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/924-sensr-net.jpg
   humanURL: https://sensr.net/api
   baseURL: ://api.serverdensity.io.///inventory/devices/agentKey/byagentkey
